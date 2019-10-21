@@ -1,0 +1,2 @@
+include ':app', ':tormobile-sources', ':tormobile'
+rootProject.name='BaatChit'
