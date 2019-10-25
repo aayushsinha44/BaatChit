@@ -13,6 +13,8 @@ git clone https://github.com/aayushsinha44/BaatChit.git
 cd BaatChit
 ```
 
+After this load the project to android studio, build it and generate the apk for usage.
+
 ### Prerequisites
 
 This complete project has been carried out in the following environment.
@@ -23,7 +25,9 @@ Android Studio >= 3.5
 GoMobile 
 ```
 
-### Installing
+### Go Backend Setup
+
+If you want to setup from sratch then install this go dependencies else move forward.
 
 First install the following go dependencies.
 
@@ -39,6 +43,7 @@ cd go-backend
 gomobile bind -v -x .
 ```
 This will generate the required file. Now load this files to your android projects.
+
 
 ### Working
 
